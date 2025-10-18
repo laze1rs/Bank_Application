@@ -15,22 +15,6 @@ created as a learning project to practice software architecture, GUI design, and
 - 🧩 Modular project structure for maintainability
 - ⚙️ Automatic database creation and permission setup (`chmod 600` on Unix)
 
----
-
-## 🗂 Project Structure
-
-bank_app/
-│
-├── main.py # Entry point — launches the app
-├── gui.py # Tkinter GUI and window logic
-├── auth.py # User registration and login
-├── database.py # SQLite database operations
-├── config.py # Configuration and environment setup
-└── requirements.txt
-
-
----
-
 ## ⚙️ Installation & Run
 
 ### 1️⃣ Install dependencies
