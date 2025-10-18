@@ -1,4 +1,4 @@
-**🎉IT'S MY FIRST BIG PROGECT!!!🎉**
+**🎉IT'S MY FIRST BIG PROJECT!!!🎉**
 # 💳 Bank Application
 
 A simple **banking application** built with **Python, Tkinter, and SQLite**,  
