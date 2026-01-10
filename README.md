@@ -17,11 +17,7 @@ created as a learning project to practice software architecture, GUI design, and
 
 ## ⚙️ Installation & Run
 
-### 1️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
-```
-2️⃣ Run the application
+### 1️⃣ Run the application
 ```
 python main.py
 ```
